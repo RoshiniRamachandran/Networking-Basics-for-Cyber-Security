@@ -21,3 +21,9 @@ All captured packets are saved in a pcapng file format for offline analysis and 
 Overall this project builds a strong foundation in network traffic analysis. It develops practical skills that are essential for cyber security roles such as security analyst network engineer and penetration tester. By completing this task the ability to analyze network traffic understand protocol behavior and recognize security risks is achieved.
 
 This task is intended for beginners students and aspiring professionals who want practical exposure to networking in cyber security. The structured steps clear observations and saved packet captures make the project suitable for academic evaluation self learning and interview preparation while demonstrating hands on skills through real network analysis. It also encourages ethical use awareness and responsible analysis aligned with fundamental cyber security principles and basic professional documentation standards globally.
+
+
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
