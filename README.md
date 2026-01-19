@@ -23,7 +23,8 @@ Overall this project builds a strong foundation in network traffic analysis. It 
 This task is intended for beginners students and aspiring professionals who want practical exposure to networking in cyber security. The structured steps clear observations and saved packet captures make the project suitable for academic evaluation self learning and interview preparation while demonstrating hands on skills through real network analysis. It also encourages ethical use awareness and responsible analysis aligned with fundamental cyber security principles and basic professional documentation standards globally.
 
 
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/RoshiniRamachandran/Networking-Basics-for-Cyber-Security/blob/3a1d49ae5cb482866b6509e49c07768f5d5d27b3/Screenshot%20(13).png)
+![image alt](https://github.com/RoshiniRamachandran/Networking-Basics-for-Cyber-Security/blob/3a1d49ae5cb482866b6509e49c07768f5d5d27b3/Screenshot%20(16).png
+)
+![image alt](https://github.com/RoshiniRamachandran/Networking-Basics-for-Cyber-Security/blob/3a1d49ae5cb482866b6509e49c07768f5d5d27b3/Screenshot%20(17).png)
+![image alt](https://github.com/RoshiniRamachandran/Networking-Basics-for-Cyber-Security/blob/3a1d49ae5cb482866b6509e49c07768f5d5d27b3/Screenshot%20(19).png)
